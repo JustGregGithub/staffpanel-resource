@@ -1,0 +1,8 @@
+{
+    "debug": false,
+    "prefix": "~h~~r~Staff Panel~h~ ~f~| ~w~",
+    "webAccessToken": "passphrase",
+    "verificationKey": "passphrase",
+    "webUrl": "http://localhost:2050",
+    "serverId": 1
+}
